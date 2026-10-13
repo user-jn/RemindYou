@@ -8,7 +8,9 @@ public class Main {
             // here is your code
             System.out.print("Welcome to the Remind You app\n\n");
             // System.out.println("");
-            System.out.println("Don't forget to track your distance with the fitness app");
+            System.out.print("Don't forget to track your distance with the fitness app\n\n");
+            // System.out.print("")
+            System.out.println("Don't forget to stop by the store after work");
 
         }
     }
