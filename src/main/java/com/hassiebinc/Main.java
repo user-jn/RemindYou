@@ -5,33 +5,20 @@ package com.hassiebinc;
 public class Main {
     public static void main(String[] args)
         {
-            // here is your code
+            // display
             System.out.print("Welcome to the Remind You app\n\n");
-            // System.out.println("");
+
             System.out.print("Don't forget to track your distance with the fitness app\n\n");
-            // System.out.print("")
+
             System.out.print("Don't forget to stop by the store after work\n\n");
 
-            // Variable Cheat Sheet
-
-            //Data Types
-
-            //String = Datatype
-
-            // String appname = "RemindYou"; // Text
-            //int number = 30;  // Whole number
-            //double weight = 80.5; // Decimal number
-            // boolean happy = true; // true or false
-            //float salary = 2394.9592f; // Comma number with more decimal (f)
-            //char firstLetter = 'R'; // 1 letter command
-
-            // Store information
-            // Your name
-            // You age
-            // Your weight
-            // Dream Salary per month
-            // firstLetterOfYourLastname
-            // LovesGaming boolean
+//        Create a Java program that stores the following information about yourself:
+//        Your name
+//        Your age
+//        Your weight
+//        Your dream salary per month
+//        The first letter of your last name
+//        Do you love gaming? (true or false)
 
             String name = "Jack Naillon";
             int age = 28;
